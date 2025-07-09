@@ -1,2 +1,2 @@
-# AI
-AI-related projects
+# User Segmentation
+
